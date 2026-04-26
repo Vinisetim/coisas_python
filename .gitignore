@@ -216,3 +216,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Arquivos específicos do PyCharm / JetBrains
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Se você usa o plugin de dicionário ou prateleira de código (Shelf)
+.idea/dictionaries/
+.idea/shelf/
+
+# Se você usa o banco de dados integrado do PyCharm
+.idea/dataSources/
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+
+# Arquivos de log e tarefas locais
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/sonarlint/
